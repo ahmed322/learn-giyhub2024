@@ -1,2 +1,5 @@
 # learn-giyhub2024
-repo o learn git hub 
+
+repo o learn git hub
+
+## notes
